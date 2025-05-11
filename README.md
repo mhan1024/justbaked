@@ -18,4 +18,5 @@ A full-stack web application for managing bakery orders, supporting real-tim ord
 </ul>
 
 <h3>Demo</h3>
-<iframe width="1051" height="591" src="https://www.youtube.com/embed/NAYEi-Fwvsw" title="JustBaked" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<a href="https://www.youtube.com/watch?v=NAYEi-Fwvsw">Check out the app!</a>
+
