@@ -16,3 +16,6 @@ A full-stack web application for managing bakery orders, supporting real-tim ord
   <li>Front-end: React, JavaScript, HTML/CSS</li>
   <li>Back-end: Java, Spring Boot, Hibernate/JPA, Eclipse, MySQL, Azure Data Studio</li>
 </ul>
+
+<h3>Demo</h3>
+<iframe width="1051" height="591" src="https://www.youtube.com/embed/NAYEi-Fwvsw" title="JustBaked" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
